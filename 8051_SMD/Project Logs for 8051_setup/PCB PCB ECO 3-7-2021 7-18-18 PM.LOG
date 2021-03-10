@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetIC_12 Pin=R6-2
+Added Pin To Net: NetName=NetIC_14 Pin=R7-2
+Added Pin To Net: NetName=NetIC_12 Pin=SW1-2
+Added Pin To Net: NetName=NetIC_14 Pin=SW2-4
+Added Room: Name=Schematic
