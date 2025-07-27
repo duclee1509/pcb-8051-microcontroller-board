@@ -1,5 +1,5 @@
 # Board Design for Microcontroller 8051
 
-![](/assests/pcb.gif)
+![](/assets/pcb.gif)
 
-![](/assests/schematic.png)
+![](/assets/schematic.png)
