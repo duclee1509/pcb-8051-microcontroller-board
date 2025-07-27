@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=NetC_2 Pin=SW-2
+Removed Pin From Net: NetName=NetC_2 Pin=SW-4
+Removed Member From Class: ClassName=Schematic Member=R1
+Removed Member From Class: ClassName=Schematic Member=SW
+Added Room: Name=Schematic

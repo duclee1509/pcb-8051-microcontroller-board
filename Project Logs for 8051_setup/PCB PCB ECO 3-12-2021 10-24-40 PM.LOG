@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C Old Footprint=CAP-ALU-SMD-4.5x5x1.4 New Footprint=SM-Cap-1206
+Change component parameters: Designator = "C"; Footprint = "SM-Cap-1206"; UniqueID = "\NISBOAAF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Schematic Member=Component C 100uF
+Added Room: Name=Schematic

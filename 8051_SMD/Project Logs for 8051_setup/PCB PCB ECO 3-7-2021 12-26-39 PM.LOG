@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=+5 Pin=IC-31
-Added Pin To Net: NetName=+5 Pin=HD-6
-Added Pin To Net: NetName=+5 Pin=IC-40
-Change Net Name : Old Net Name=+5 New Net Name=VCC
-Added Pin To Net: NetName=+5 Pin=IC-31
-Added Net: Name=+5
-Added Room: Name=Schematic

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R4 Old Footprint=R1/4W New Footprint=SM-RES-0805
+Change Component Footprint: Designator=R5 Old Footprint=R1/4W New Footprint=SM-RES-0805
+Change Component Footprint: Designator=R6 Old Footprint=R1/4W New Footprint=SM-RES-0805
+Change Component Footprint: Designator=R7 Old Footprint=R1/4W New Footprint=SM-RES-0805
+Added Room: Name=Schematic

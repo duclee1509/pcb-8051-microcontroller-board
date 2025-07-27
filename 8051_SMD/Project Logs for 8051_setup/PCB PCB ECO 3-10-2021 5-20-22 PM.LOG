@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=RESET Pin=U?-4
-Change Net Name : Old Net Name=NetHD_1 New Net Name=MOSI
-Change Net Name : Old Net Name=NetHD_7 New Net Name=SCK
-Change Net Name : Old Net Name=NetHD_9 New Net Name=MISO
-Change Net Name : Old Net Name=NetR6_2 New Net Name=INT0
-Change Net Name : Old Net Name=NetR7_2 New Net Name=TIM0
-Added Room: Name=Schematic
